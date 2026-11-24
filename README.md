@@ -1,1 +1,1 @@
-# CS121_final_project
+# Steam Sale Fetcher Tool
